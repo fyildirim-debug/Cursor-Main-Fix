@@ -1,0 +1,7 @@
+requests==2.31.0
+beautifulsoup4==4.12.2
+DrissionPage==4.1.0.17
+imaplib2==3.6
+pathlib==1.0.1
+colorama==0.4.6
+psutil==5.9.8 
