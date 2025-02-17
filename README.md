@@ -2,6 +2,24 @@
 
 Bu program, Cursor uygulamasını yönetmek ve yeni hesap oluşturmak için tasarlanmış bir araçtır.
 
+
+## ⚠️ Önemli Uyarı / Important Warning
+
+### 🇹🇷 Türkçe Uyarı
+Bu proje **SADECE EĞİTİM AMAÇLIDIR** ve otomatik hesap oluşturma sürecinin teknik olarak nasıl çalıştığını göstermek için hazırlanmıştır. Bu aracın kullanılması etik değildir ve Cursor'un hizmet şartlarına aykırıdır.
+
+**Cursor'u desteklemek ve en iyi deneyimi yaşamak için lütfen resmi web sitesinden lisans satın alın: [cursor.sh](https://cursor.sh)**
+
+Bu projenin amacı:
+- Eğitim ve öğrenme
+- Teknik süreçleri anlama
+- Otomasyon mantığını kavrama
+
+Bu projenin amacı **KESİNLİKLE**:
+- Cursor'u ücretsiz kullanmak
+- Hizmet şartlarını ihlal etmek
+- Ticari kazanç elde etmek **DEĞİLDİR**
+
 ## 🚀 Özellikler
 
 - Cursor uygulamasını otomatik kapatma ve başlatma
